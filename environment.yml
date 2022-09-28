@@ -2,14 +2,21 @@ channels:
   - conda-forge
 dependencies:
   # Base environment
-  - python=3.8
+  - python
   - pip
+  # Jupyter
   - jupyterlab
+  - jupyterlab-git
+  - jupyterlab-lsp
+  - python-lsp-server
+  - nbgitpuller
+  # code-server
+  - code-server
+  - jupyter-vscode-proxy
   # Utilities
   - black
   - flake8
   - ipywidgets
-  - nbgitpuller
   - nox
   - pre-commit
   - pytest
