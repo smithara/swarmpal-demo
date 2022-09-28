@@ -2,7 +2,7 @@
 
 ## Launching the demo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smithara/swarmpal-demo/HEAD?labpath=SwarmPAL%2Fdocs%2Ftoolboxes%2Ftfa%2Fusing_tfa.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smithara/swarmpal-demo/HEAD)
 
 Click the button above to launch the demo (on mybinder.org)
 
