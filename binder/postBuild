@@ -6,4 +6,6 @@ git checkout staging
 pip install -e .[dsecs,dev]
 cd ..
 
+code-server --install-extension ms-python.python
 jupyter lab workspaces import binder/default.jupyterlab-workspace
+conda init
