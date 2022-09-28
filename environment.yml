@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+dependencies:
+  # Base environment
+  - python=3.8
+  - pip
+  - jupyterlab
+  # Utilities
+  - black
+  - flake8
+  - ipywidgets
+  - nbgitpuller
+  - nox
+  - pre-commit
+  - pytest
+  # Main swarmpal dependencies
+  - cartopy
+  - dask
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - xarray
