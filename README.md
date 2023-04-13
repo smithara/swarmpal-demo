@@ -2,20 +2,20 @@
 
 ## Launching the demo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smithara/swarmpal-demo/HEAD)
+**If you are not already in Jupyter**, click either:
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smithara/swarmpal-demo/HEAD) to launch the demo on mybinder.org
+- VRE link to-do
 
-Click the button above to launch the demo (on mybinder.org)
-
-This sets up a temporary environment containing an editable install of the latest version of [SwarmPAL](https://github.com/Swarm-DISC/SwarmPAL)
+The Binder link sets up a temporary environment containing an editable install of the latest version of [SwarmPAL](https://github.com/Swarm-DISC/SwarmPAL)
 
 ## Finding the demo notebooks
 
-Once JupyterLab has loaded, you can use the file browser on the left to navigate to `SwarmPAL/docs/toolboxes/` and select a notebook.
+Once JupyterLab has loaded, you can use the file browser on the left to navigate into the `guides` directory and select a notebook.
 
 Or use these links (though they may be outdated):
-- [Shared Components](./SwarmPAL/docs/toolboxes/shared/data_io.ipynb)
-- [FAC](./SwarmPAL/docs/toolboxes/fac/using_fac.ipynb)
-- [DSECS](./SwarmPAL/docs/toolboxes/secs/using_secs.ipynb)
-- [TFA](./SwarmPAL/docs/toolboxes/tfa/using_tfa.ipynb)
+- [Shared Components](./guides/quickstart.ipynb)
+- [FAC](./guides/toolboxes/fac/intro_fac.ipynb)
+- [DSECS](.guides/toolboxes/dsecs/intro_dsecs.ipynb)
+- [TFA](.guides/toolboxes/tfa/intro_tfa.ipynb)
 
 These notebooks are also used to generate parts of [the online documentation](https://swarmpal.readthedocs.io)

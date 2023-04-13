@@ -28,3 +28,4 @@ dependencies:
   - pandas
   - scipy
   - xarray
+  - xarray-datatree
