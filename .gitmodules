@@ -1,3 +1,6 @@
 [submodule ".submodules/SwarmPAL"]
 	path = .submodules/SwarmPAL
 	url = https://github.com/Swarm-DISC/SwarmPAL
+[submodule "SwarmPAL"]
+	path = SwarmPAL
+	url = https://github.com/Swarm-DISC/SwarmPAL

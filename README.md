@@ -1,21 +1,11 @@
-# swarmpal-demo
+# SwarmPAL demo tool
 
 ## Launching the demo
 
 **If you are not already in Jupyter**, click either:
+- [![Swarm-VRE](https://img.shields.io/badge/%F0%9F%9A%80%20launch-Swarm--VRE-blue)](https://vre.vires.services/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsmithara%2Fswarmpal-demo&urlpath=lab%2Ftree%2Fswarmpal-demo%2FREADME.ipynb&branch=main) to launch in the ESA Virtual Research Environment
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/smithara/swarmpal-demo/HEAD) to launch the demo on mybinder.org
-- VRE link to-do
 
 The Binder link sets up a temporary environment containing an editable install of the latest version of [SwarmPAL](https://github.com/Swarm-DISC/SwarmPAL)
 
-## Finding the demo notebooks
-
-Once JupyterLab has loaded, you can use the file browser on the left to navigate into the `guides` directory and select a notebook.
-
-Or use these links (though they may be outdated):
-- [Shared Components](./guides/quickstart.ipynb)
-- [FAC](./guides/toolboxes/fac/intro_fac.ipynb)
-- [DSECS](.guides/toolboxes/dsecs/intro_dsecs.ipynb)
-- [TFA](.guides/toolboxes/tfa/intro_tfa.ipynb)
-
-These notebooks are also used to generate parts of [the online documentation](https://swarmpal.readthedocs.io)
+The Swarm-VRE link uses nbgitpuller to provide this demo tool
