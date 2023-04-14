@@ -4,5 +4,5 @@ git submodule update --init --recursive --remote
 pip install -e SwarmPAL[dsecs,dev]
 
 code-server --install-extension ms-python.python
-jupyter lab workspaces import ./binder/default.jupyterlab-workspace
+jupyter lab workspaces import .binder/default.jupyterlab-workspace
 conda init
