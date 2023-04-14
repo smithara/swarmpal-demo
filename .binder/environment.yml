@@ -23,9 +23,11 @@ dependencies:
   # Main swarmpal dependencies
   - cartopy
   - dask
+  - hapiclient
   - matplotlib
   - numpy
   - pandas
   - scipy
+  - viresclient
   - xarray
   - xarray-datatree
