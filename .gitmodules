@@ -1,3 +1,4 @@
 [submodule "SwarmPAL"]
 	path = SwarmPAL
 	url = https://github.com/Swarm-DISC/SwarmPAL
+	branch = main
